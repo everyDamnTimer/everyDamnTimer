@@ -1,1 +1,1 @@
-foo
+YOUR_NEW_CONTENTS
